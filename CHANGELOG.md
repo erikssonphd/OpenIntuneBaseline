@@ -8,6 +8,13 @@ A number of supporting docs have been moved to Wiki pages and removed from the r
 
 ---
 
+# 2024-10-02
+Forked from (https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/)
+
+Added Entra ID Groups
+
+---
+
 # 2024-09-02
 ## Releases
 * [OIB MacOS v1.0](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline/releases/tag/macos-v1.0)
